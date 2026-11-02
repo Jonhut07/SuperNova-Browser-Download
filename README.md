@@ -19,7 +19,6 @@ for your apps, deep customization and a lot more.
 - 🎮 **Game Mode & Performance monitor** — see what uses your CPU and memory, put tabs to sleep, set limits.
 - 📝 **Notes, Tools & Nova Lens** — notes with Markdown, a calculator, QR scanner, color picker, and copying text out of images.
 - 🌍 **Translate pages** — in English, Norwegian, German, Spanish and French.
-- 🎬 **Netflix, Disney+ and more** — protected video is supported.
 - 🕹️ **No internet? Play a game** — Nova Runner, Snake and 2048 instead of an error page.
 
 ## 📥 Install
