@@ -1,4 +1,4 @@
-# SuperNova 1.0.0 🌌
+# SuperNova 🌌
 
 **A fast, private browser with a futuristic, gaming-inspired look — free to use.**
 
@@ -24,7 +24,7 @@ for your apps, deep customization and a lot more.
 
 ## 📥 Install
 
-1. Download **`SuperNova-Setup-1.0.0.exe`** below.
+1. Download **`SuperNova-Setup-1.x.x.exe`** below.
 2. Run it. Windows may show **"Windows protected your PC"** — this appears because SuperNova
    is new and not signed with a paid certificate. Click **More info → Run anyway**.
 3. Choose where to install it, and you're done.
