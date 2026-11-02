@@ -8,7 +8,7 @@ for your apps, deep customization and a lot more.
 
 ## ✨ Highlights
 
-- 🛡️ **Ad & tracker blocking built in** — including YouTube video ads. No extension needed.
+- 🛡️ **Ad & tracker blocking built in** — including YouTube video ads. No extension needed. YouTube actively fights ad blockers, so it may not always work there.
 - 🚨 **Scam & pop-up protection** — warns you before known scam, malware and phishing sites.
 - 🗂️ **Workspaces & Tab Islands** — separate sets of tabs (work, gaming, school…) and colored, collapsible tab groups.
 - 📐 **Split view** — two tabs side by side; drag a tab onto the page and hold it.
